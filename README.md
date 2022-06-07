@@ -60,3 +60,7 @@ Now you could see a build has been triggered automatically on Jenkins and it sca
 
 
 Hope this has given fair idea about how Jenkins multibranch pipelines work with webhook.
+
+
+
+Source url - https://valaxytech.medium.com/multibranch-pipeline-on-jenkins-with-webhook-a65decede4f8
